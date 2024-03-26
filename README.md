@@ -1,5 +1,5 @@
 
-Couse projects from ⚙️<b>Datacamp</b>⚙️
+Python projects from ⚙️<b>Datacamp</b>⚙️
 =================================================================================================================================
 
 * included texts owned by the datacamp platform (www.datacamp.com)
